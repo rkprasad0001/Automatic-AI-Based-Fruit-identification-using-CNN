@@ -38,7 +38,7 @@ Automatic-AI-Based-Fruit-identification-using-CNN/<br>
 │ ├── admins/<br>
 │ ├── users/<br>
 │ ├── static/<br>
-│ │ └── img/<br>
+│ │└── img/<br>
 │ ├── templates/<br>
 │ ├── manage.py<br>
 │ ├── requirements.txt<br>
@@ -122,6 +122,7 @@ Classes	10+ Fruit Types
 
 🌈 Improve dataset diversity for real-world use.
 
+
 👨‍💻 Author
 
 Ramakrishna Prasad Nalimela<br>
@@ -131,11 +132,6 @@ AI & Cybersecurity Enthusiast<br>
 📧 rkprasad0001@gmail.com
 
 🌐 rkprasad0001<br>
-
-🪪 License
-
-This project is released under the MIT License.
-You are free to use, modify, and distribute this code for educational and research purposes with proper attribution.
 
 ⭐ Acknowledgements
 
